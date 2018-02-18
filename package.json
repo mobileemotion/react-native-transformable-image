@@ -1,6 +1,6 @@
 {
   "name": "react-native-transformable-image",
-  "version": "0.0.18",
+  "version": "0.1.0",
   "description": "",
   "main": "library/TransformableImage.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "url": "https://github.com/ldn0x7dc/react-native-transformable-image/issues"
   },
   "homepage": "https://github.com/ldn0x7dc/react-native-transformable-image#readme",
-  "dependencies": {
-    "react-native-view-transformer": "0.0.28"
+  "contributors": ["Michael Malura <maluramichael@googlemail.com> (https://github.com/maluramichael)"],
+  "peerDependencies": {
+    "react-native-view-transformer": "*",
+    "prop-types": "*"
   }
 }
